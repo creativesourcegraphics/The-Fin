@@ -1,0 +1,338 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="http://127.0.0.1:34401/a-e-720p.png" group-title="Entertainment",A&E (720p)
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="http://127.0.0.1:34401/acc-network-720p.png" group-title="Sports",ACC Network (720p)
+http://206.212.244.63/2486/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://127.0.0.1:34401/espnu-720p.png" group-title="Sports",ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="http://127.0.0.1:34401/fox-sports-1-720p.png" group-title="Sports",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="http://127.0.0.1:34401/fox-sports-2.png" group-title="Sports",Fox Sports 2
+https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
+#EXTINF:-1 tvg-id="MLB.HD.us2" tvg-logo="http://127.0.0.1:34401/mlb-channel-1080p-geo-blocked.png" group-title="Sports",MLB Channel (1080p) [Geo-blocked]
+https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/mlb-network-720p.png" group-title="Sports",MLB Network (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23103
+#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-logo="http://127.0.0.1:34401/mlb-strike-zone-720p.png" group-title="Sports",MLB Strike Zone (720p)
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="MSG.National.us2" tvg-logo="http://127.0.0.1:34401/msg-720p.png" group-title="Sports",MSG (720p)
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="http://127.0.0.1:34401/nba-tv-1080p-geo-blocked.png" group-title="Sports",NBA TV (1080p) [Geo-blocked]
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-logo="http://127.0.0.1:34401/nbc-sports-now-1080p.png" group-title="Sports",NBC Sports NOW (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-id="NBCSN.us@SD" tvg-logo="http://127.0.0.1:34401/nbcsn-720p.png" group-title="Sports",NBCSN (720p)
+http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NESN.us@SD" tvg-logo="http://127.0.0.1:34401/nesn-720p.png" group-title="Sports",NESN (720p)
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:-1 tvg-id="NFLChannel.us@SD" tvg-logo="http://127.0.0.1:34401/nfl-channel-1080p-geo-blocked.png" group-title="Sports",NFL Channel (1080p) [Geo-blocked]
+https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/nfl-network-720p.png" group-title="Sports",NFL Network (720p)
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/nhl-network-1080p.png" group-title="Sports",NHL Network (1080p)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Overtime.us@SD" tvg-logo="http://127.0.0.1:34401/overtime-1080p.png" group-title="Sports",Overtime (1080p)
+https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="http://127.0.0.1:34401/sportsnet-new-york-1080p.png" group-title="Sports",SportsNet New York (1080p)
+http://40.160.24.55/SNY/index.m3u8
+#EXTINF:-1 tvg-id="Stadium.us@SD" tvg-logo="http://127.0.0.1:34401/stadium-720p.png" group-title="Sports",Stadium (720p)
+https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-logo="http://127.0.0.1:34401/accuweather-now-1080p.png" group-title="Weather",AccuWeather Now (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-logo="http://127.0.0.1:34401/fox-weather-1080p-geo-blocked.png" group-title="Weather",FOX Weather (1080p) [Geo-blocked]
+https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-logo="http://127.0.0.1:34401/weathernation-1080p.png" group-title="Weather",WeatherNation (1080p)
+http://40.160.24.55/WEATHER_NATION/index.m3u8
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/big-ten-network-720p.png" group-title="Sports",Big Ten Network (720p)
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="http://127.0.0.1:34401/cbs-news-24-7-720p.png" group-title="News",CBS News 24/7 (720p)
+https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
+#EXTINF:-1 tvg-id="BestofDrPhil.us@SD" tvg-logo="http://127.0.0.1:34401/best-of-dr-phil.png" group-title="Entertainment",Best of Dr. Phil
+https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-logo="http://127.0.0.1:34401/fuse-1080p.png" group-title="Entertainment",Fuse (1080p)
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://127.0.0.1:34401/fx-1080p.png" group-title="Entertainment",FX (1080p)
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="MTV.HD.us2" tvg-logo="http://127.0.0.1:34401/mtv-720p.png" group-title="Entertainment",MTV (720p)
+http://40.160.24.53/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.HD.us2" tvg-logo="http://127.0.0.1:34401/mtv2-1080p.png" group-title="Entertainment",MTV2 (1080p)
+http://40.160.24.53/MTV2/index.m3u8
+#EXTINF:-1 tvg-id="MTVU.us@SD" tvg-logo="http://127.0.0.1:34401/mtvu-720p.png" group-title="Entertainment",MTVU (720p)
+http://206.212.244.63/119/index.m3u8
+#EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD" tvg-logo="http://127.0.0.1:34401/the-price-is-right-the-barker-era-1080p-.png" group-title="Entertainment",The Price Is Right: The Barker Era (1080p) [Geo-blocked]
+https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://127.0.0.1:34401/nick-jr-1080p.png" group-title="Kids",Nick Jr. (1080p)
+http://40.160.24.55/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://127.0.0.1:34401/nickelodeon-1080p.png" group-title="Kids",Nickelodeon (1080p)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",Disney Junior (720p)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://127.0.0.1:34401/disney-channel-720p.png" group-title="Kids",Disney Channel (720p)
+http://206.212.244.63/650/index.m3u8
+#EXTINF:-1 tvg-id="UniversalCinema.us@SD" tvg-logo="http://127.0.0.1:34401/universal-cinema-1080p.png" group-title="Movies",Universal Cinema (1080p)
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
+#EXTINF:-1 tvg-id="Scares.by.Shudder.us2" tvg-logo="http://127.0.0.1:34401/scares-by-shudder-720p.png" group-title="Movies",Scares by Shudder (720p)
+http://206.212.244.63/147/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="http://127.0.0.1:34401/starz-cinema-720p.png" group-title="Movies",Starz Cinema (720p)
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTerror.us@SD" tvg-logo="http://127.0.0.1:34401/pluto-tv-terror.png" group-title="Movies",Pluto TV Terror
+https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-logo="http://127.0.0.1:34401/paramount-movie-channel.png" group-title="Movies",Paramount Movie Channel
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD" tvg-logo="http://127.0.0.1:34401/paramount-picks.png" group-title="Movies",Paramount+ Picks
+https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="http://127.0.0.1:34401/lifetime-movies-1080p.png" group-title="Movies",Lifetime Movies (1080p)
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-logo="http://127.0.0.1:34401/hallmark-family-1080p.png" group-title="Movies",Hallmark Family (1080p)
+http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" tvg-logo="http://127.0.0.1:34401/hallmark-movies-more-1080p.png" group-title="Movies",Hallmark Movies & More (1080p)
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-logo="http://127.0.0.1:34401/ifc-1080p.png" group-title="Movies",IFC (1080p)
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://127.0.0.1:34401/amc-720p.png" group-title="Movies",AMC (720p)
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us@East" tvg-logo="http://127.0.0.1:34401/showtime-family-zone-720p.png" group-title="Family",Showtime Family Zone (720p)
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="http://127.0.0.1:34401/hallmark-channel-1080p.png" group-title="Family",Hallmark Channel (1080p)
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-logo="http://127.0.0.1:34401/freeform-720p.png" group-title="Family",Freeform (720p)
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://127.0.0.1:34401/fox-news-channel-720p.png" group-title="News",Fox News Channel (720p)
+http://41.205.77.102/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="http://127.0.0.1:34401/espnews-720p.png" group-title="Sports",ESPNews (720p)
+http://41.223.30.230/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-id="CBS.West.us2" tvg-logo="http://127.0.0.1:34401/cbs-1080p.png" group-title="General",CBS (1080p)
+http://stream.cammonitorplus.net/1783/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://127.0.0.1:34401/cnbc-720p.png" group-title="News",CNBC (720p)
+http://206.212.244.63/41/index.m3u8
+#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-logo="http://127.0.0.1:34401/nbc-1080p.png" group-title="General",NBC (1080p)
+http://stream.cammonitorplus.net/1785/index.m3u8
+#EXTINF:-1 tvg-id="CBS.East.us2" tvg-logo="http://127.0.0.1:34401/cbs-12-cincinnati-oh-wkrc-1080p.png" group-title="General",CBS 12 Cincinnati OH (WKRC) (1080p)
+https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="WFTV91.us@HD" tvg-logo="http://127.0.0.1:34401/abc-9-orlando-fl-wftv-720p.png" group-title="News",ABC 9 Orlando FL (WFTV) (720p)
+https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="http://127.0.0.1:34401/abc-news-live-1-720p.png" group-title="News",ABC News Live 1 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://127.0.0.1:34401/vh1-720p.png" group-title="Music",VH1 (720p)
+http://40.160.24.55/VH1/index.m3u8
+
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="" group-title="Movies",5 Star Max
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1446.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1:34401/ufc-tv.png" group-title="Sports",UFC TV
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/394.ts
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://127.0.0.1:34401/tennis-channel.png" group-title="Sports",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/new-england-sport-network.png" group-title="Sports",NEW ENGLAND SPORT NETWORK
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/393.ts
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="http://127.0.0.1:34401/fox-deportes.png" group-title="General",FOX DEPORTES
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/384.ts
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://127.0.0.1:34401/espn-u.png" group-title="Sports",ESPN U
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-logo="http://127.0.0.1:34401/espn-deportes.png" group-title="Sports",ESPN Deportes
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/cbs-sports-net.png" group-title="Sports",CBS SPORTS NET
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="" group-title="Sports",beINSPORT
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-logo="http://127.0.0.1:34401/discovery.png" group-title="Documentary",Discovery
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1428.ts
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="http://127.0.0.1:34401/destination-america.png" group-title="Documentary",DESTINATION AMERICA
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1385.ts
+#EXTINF:-1 tvg-id="CW.us2" tvg-logo="http://127.0.0.1:34401/cw.png" group-title="General",CW
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1429.ts
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://127.0.0.1:34401/comedy-central.png" group-title="Entertainment",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://127.0.0.1:34401/cnn.png" group-title="News",CNN
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1431.ts
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="http://127.0.0.1:34401/cinemax.png" group-title="Movies",Cinemax
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1433.ts
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/cartoon-network.png" group-title="Kids",Cartoon Network
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1435.ts
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-logo="http://127.0.0.1:34401/bloomberg.png" group-title="News",Bloomberg
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://127.0.0.1:34401/bet.png" group-title="Music",BET
+http://206.212.244.63/16/index.m3u8
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="http://127.0.0.1:34401/bein-sports.png" group-title="Sports",Bein Sports
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1:34401/att-sportsnet-sw.png" group-title="Sports",ATT Sportsnet SW
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1378.ts
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="http://127.0.0.1:34401/animal-planet.png" group-title="Documentary",Animal Planet
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1438.ts
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-logo="http://127.0.0.1:34401/american-hero-channel.png" group-title="Documentary",American Hero Channel
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1439.ts
+#EXTINF:-1 tvg-id="AMC+.us2" tvg-logo="http://127.0.0.1:34401/amc.png" group-title="Entertainment",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="" group-title="Movies",Action Max
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1441.ts
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-logo="http://127.0.0.1:34401/abc.png" group-title="General",ABC
+http://stream.cammonitorplus.net/1797/index.m3u8
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-logo="http://127.0.0.1:34401/golf.png" group-title="Sports",Golf
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1417.ts
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://127.0.0.1:34401/fxx.png" group-title="Entertainment",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Fusion
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1376.ts
+#EXTINF:-1 tvg-id="Fox.Sports.4K.us2" tvg-logo="http://127.0.0.1:34401/fox-sports-ohio.png" group-title="Sports",Fox Sports Ohio
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1373.ts
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="http://127.0.0.1:34401/fox-soccer-pl.png" group-title="General",Fox Soccer Pl
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1399.ts
+#EXTINF:-1 tvg-id="FOX.SOUL.us2" tvg-logo="http://127.0.0.1:34401/fox.png" group-title="General",Fox
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="http://127.0.0.1:34401/fox-business-network.png" group-title="News",FOX Business Network
+http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Fight.Network.us2" tvg-logo="http://127.0.0.1:34401/fight-network.png" group-title="Sports",Fight Network
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1426.ts
+#EXTINF:-1 tvg-id="Entertainment.Tonight.us2" tvg-logo="" group-title="Entertainment",ET
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1379.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1:34401/discovery-science.png" group-title="Documentary",Discovery Science
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1427.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1:34401/pac-12-arizona.png" group-title="Sports",Pac-12 Arizona
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1404.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1:34401/nfl-channel.png" group-title="Sports",NFL Channel
+https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://127.0.0.1:34401/national-geographic.png" group-title="Documentary",National Geographic
+http://40.160.24.53/NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-id="MSG.SportsZone.us2" tvg-logo="http://127.0.0.1:34401/msg.png" group-title="Sports",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1 tvg-id="MSG.Sportsnet.2.HD.us2" tvg-logo="http://127.0.0.1:34401/msg-2.png" group-title="Sports",MSG 2
+http://40.160.24.52/MSG_2/index.m3u8
+#EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-logo="" group-title="Documentary",MOTOR TREND
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1402.ts
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="http://127.0.0.1:34401/moremax.png" group-title="Movies",MoreMax
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1408.ts
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="http://127.0.0.1:34401/lifetime.png" group-title="Family",Lifetime
+http://40.160.24.53/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="http://127.0.0.1:34401/history.png" group-title="Documentary",History
+http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1:34401/hgtv.png" group-title="Documentary",HGTV
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1412.ts
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="http://127.0.0.1:34401/hbo-zone.png" group-title="Movies",HBO Zone
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1414.ts
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="http://127.0.0.1:34401/hbo-signature.png" group-title="Movies",HBO Signature
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1415.ts
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://127.0.0.1:34401/hbo-comedy.png" group-title="Movies",HBO Comedy
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1416.ts
+#EXTINF:-1 tvg-id="Yes.Network.us2" tvg-logo="http://127.0.0.1:34401/yes-network.png" group-title="Sports",Yes Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-logo="http://127.0.0.1:34401/wwe-network.png" group-title="Sports",WWE Network
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1382.ts
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-logo="http://127.0.0.1:34401/willow-cricket.png" group-title="Sports",Willow Cricket
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://127.0.0.1:34401/weather-channel.png" group-title="Weather",WEATHER CHANNEL
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1384.ts
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/usa-network.png" group-title="Entertainment",USA Network
+http://40.160.24.55/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="" group-title="Entertainment",TNT
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1389.ts
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://127.0.0.1:34401/tlc.png" group-title="Documentary",TLC
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1390.ts
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="" group-title="Entertainment",TBS
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1391.ts
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="http://127.0.0.1:34401/syfy.png" group-title="Entertainment",Syfy
+https://gpuserver5.tier1streams.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="http://127.0.0.1:34401/starz.png" group-title="Movies",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",STADIUM
+https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sports Net World
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1424.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sports Net Ontario
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1395.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sports Net One
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1425.ts
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="http://127.0.0.1:34401/showtime.png" group-title="General",Showtime
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1397.ts
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/sec-network.png" group-title="Sports",SEC Network
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/paramount-network.png" group-title="Entertainment",Paramount Network
+http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://127.0.0.1:34401/bravo.png" group-title="Entertainment",Bravo
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Freedom
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1454.ts
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-logo="" group-title="Documentary",OWN
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1455.ts
+#EXTINF:-1 tvg-id="Nat.Geo.Mundo.us2" tvg-logo="http://127.0.0.1:34401/nat-geo-wild.png" group-title="Documentary",Nat Geo Wild
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1457.ts
+#EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="http://127.0.0.1:34401/msnbc.png" group-title="News",MSNBC
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1458.ts
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="http://127.0.0.1:34401/hbo.png" group-title="Movies",HBO
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1463.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",HBO Family
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1464.ts
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-logo="http://127.0.0.1:34401/we-tv.png" group-title="Family",WE TV
+http://40.160.24.55/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",Velocity
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1449.ts
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-logo="http://127.0.0.1:34401/sundancetv.png" group-title="Movies",SUNDANCETV
+http://40.160.24.55/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="http://127.0.0.1:34401/starz-encore-west.png" group-title="Movies",Starz Encore West
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://127.0.0.1:34401/espn.png" group-title="Sports",ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.HD.us2" tvg-logo="http://127.0.0.1:34401/espn3.png" group-title="Sports",ESPN 3
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="General",St. Pete TV
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="General",Tampa Bay Community Network
+https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
+#EXTINF:-1 tvg-id="WTVT-DT.us_locals1" group-title="General",FOX 13 Tampa (WTVT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax5StarMax.us" tvg-logo="http://127.0.0.1:34401/cinemax-5starmax.png" tvg-name="Cinemax 5StarMax" group-title="Premium",Cinemax 5StarMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8?takodachi
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://127.0.0.1:34401/hbo-2.png" tvg-name="HBO 2" group-title="Premium",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8?takodachi
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="http://127.0.0.1:34401/sny.png" tvg-name="SNY" group-title="Premium",SNY
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+#EXTINF:-1 tvg-id="FanDuelSportsWest.us" tvg-name="FanDuel Sports West" group-title="Premium",FanDuel Sports West
+https://tvpass.org/live/fanduel-sports-network-west/sd
+#EXTINF:-1 tvg-id="FanDuelSportsTennessee.us" tvg-name="FanDuel Sports Tennessee" group-title="Premium",FanDuel Sports Tennessee
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/cbs-sports-network.png" tvg-name="CBS Sports Network" group-title="Premium",CBS Sports Network
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="Altitude.Sports.us2" tvg-logo="http://127.0.0.1:34401/altitude-sports.png" tvg-name="Altitude Sports" group-title="Premium",Altitude Sports
+http://206.212.244.63/6153/index.m3u8
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="http://127.0.0.1:34401/bein-sports-usa.png" tvg-name="beIN Sports USA" group-title="Premium",beIN Sports USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="http://127.0.0.1:34401/bein-sports-xtra.png" tvg-name="beIN SPORTS XTRA" group-title="Premium",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DraftKings.Network.us2" tvg-logo="http://127.0.0.1:34401/draftkings-network.png" tvg-name="DraftKings Network" group-title="Premium",DraftKings Network
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 tvg-id="FanDuelRacing.us" tvg-name="FanDuel Racing" group-title="Premium",FanDuel Racing
+http://206.212.244.63/6139/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelTV.us" tvg-name="FanDuel TV" group-title="Premium",FanDuel TV
+http://40.160.24.55/TVG/index.m3u8
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-logo="http://127.0.0.1:34401/golf-channel.png" tvg-name="Golf Channel" group-title="Premium",Golf Channel
+http://23.237.104.106:8080/USA_GOLF/index.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="http://127.0.0.1:34401/nba-tv.png" tvg-name="NBA TV" group-title="Premium",NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-logo="http://127.0.0.1:34401/nbc-sports-chicago.png" tvg-name="NBC Sports Chicago" group-title="Premium",NBC Sports Chicago
+http://206.212.244.63/6141/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="http://127.0.0.1:34401/starz-comedy.png" tvg-name="Starz Comedy" group-title="Premium",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-logo="http://127.0.0.1:34401/starz-kids-family.png" tvg-name="Starz Kids & Family" group-title="Premium",Starz Kids & Family
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="VSiN.us" tvg-logo="http://127.0.0.1:34401/vsin.png" tvg-name="VSiN" group-title="Premium",VSiN
+https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" group-title="Premium",Willow Sports
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-logo="http://127.0.0.1:34401/mgm-marquee.png" tvg-name="MGM+ Marquee" group-title="Premium",MGM+ Marquee
+http://108.181.20.255:27347/livehttpplay?channel_id=23075
+#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-logo="http://127.0.0.1:34401/mgm-west.png" tvg-name="MGM+ West" group-title="Premium",MGM+ West
+http://108.181.20.255:27347/livehttpplay?channel_id=23073
+#EXTINF:-1 tvg-id="Willow.us" tvg-logo="http://127.0.0.1:34401/willow.png" tvg-name="Willow" group-title="Premium",Willow
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="http://127.0.0.1:34401/fox-soccer-plus.png" tvg-name="Fox Soccer Plus" group-title="Premium",Fox Soccer Plus
+https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-logo="http://127.0.0.1:34401/marquee-sports-network.png" tvg-name="Marquee Sports Network" group-title="Premium",Marquee Sports Network
+https://gpuserver3.tier1streams.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MSG.Plus.us2" tvg-logo="http://127.0.0.1:34401/msg-plus.png" tvg-name="MSG Plus" group-title="Premium",MSG Plus
+https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="http://127.0.0.1:34401/showtime-2.png" tvg-name="Showtime 2" group-title="Premium",Showtime 2
+http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="http://127.0.0.1:34401/showtime-extreme.png" tvg-name="Showtime Extreme" group-title="Premium",Showtime Extreme
+http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-logo="http://127.0.0.1:34401/mgm-drive-in.png" tvg-name="MGM+ Drive-In" group-title="Premium",MGM+ Drive-In
+https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8

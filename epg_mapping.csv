@@ -1,0 +1,97 @@
+channel,old_tvg_id,proposed_epg_id,confidence,score,alternatives
+A&E,AE.us@East,A.and.E.HD.East.us2,HIGH,2.2,and.TV.us2 | Law.and.Crime.us2 | E!.Entertainment.Television.HD.us2
+ABC 9 Orlando FL (WFTV),WFTV91.us@HD,ABC.National.Feed.us2,LOW,0.22,WRR.101.9.us2 | ABC.News.Live.us2 | ABC.National.Feed.Pacific.us2
+ABC News Live 1,ABCNewsLive1.us@SD,ABC.News.Live.us2,MED,0.8,Spectrum.News.1.-.Austin.us2 | Spectrum.News.1.-.San.Antonio.us2 | Spectrum.News.1.-.Milwaukee.-.STVA.us2
+ACC Network,ACCNetwork.us@SD,ACC.Network.us2,HIGH,2.2,Yes.Network.us2 | WWE.Network.us2 | Univision.Network.HD.us2
+AMC,AMC.us@EastHD,AMC.HD.us2,HIGH,2.2,AMC+.us2 | Stories.by.AMC.us2
+AccuWeather Now,AccuWeatherNOW.us@SD,AccuWeather.HD.us2,LOW,0.55,MagellanTV.Now.us2 | MS.NOW.HD.us2 | FlixFling.Now.us2
+Best of Dr. Phil,BestofDrPhil.us@SD,Shades.of.Black.us2,LOW,0.22,AWE.A.Wealth.of.Entertainment.HD.us2
+Big Ten Network,BigTenNetwork.us@SD,Big.Ten.Network.HD.us2,HIGH,2.2,Big.Ten.Network.Overflow.us2 | Big.Ten.Network.Overflow.HD.us2 | Yes.Network.us2
+CBS,CBS.us@East,CBS.West.us2,HIGH,2.2,CBS.Streaming.SD.East.feed.us2 | CBS.Sports.Network.HD.us2 | CBS.News.National.Stream.us2
+CBS 12 Cincinnati OH (WKRC),WKRCTV121.us@HD,CBS.West.us2,LOW,0.25,CBS.Streaming.SD.East.feed.us2 | CBS.Sports.Network.HD.us2 | News.12.New.Jersey.us2
+CBS News 24/7,CBSNews247.us@SD,Rai.News.24.us2,LOW,0.45,CBS.News.National.Stream.us2 | BBC.Dinos.24/7.us2 | CBS.West.us2
+CBS Sports HQ,CBSSportsHQ.us@SD,CBS.Sports.Network.HD.us2,LOW,0.55,CBS.West.us2 | HBCUGO.SPORTS.us2 | CBS.Streaming.SD.East.feed.us2
+CNBC,CNBCUK.uk@SD,CNBC.HD.us2,HIGH,2.2,CNBC.World.us2
+Court TV,CourtTV.us@SD,Court.TV.us2,HIGH,2.2,West.TV.us2 | ¡HOLA!.TV.us2 | and.TV.us2
+CourtTV,CourtTV.us@SD,,LOW,0,
+Disney Channel,DisneyChannel.us@East,Disney.Channel.HD.us2,HIGH,2.2,Disney.Channel.(Pacific).us2 | WORLD.Channel.us2 | Victory.Channel.us2
+Disney Junior,DisneyJunior.us@East,Disney.Junior.HD.us2,HIGH,2.2,Disney.Junior.HD.(Pacific).us2 | Disney.XD.HD.us2 | Disney.Channel.HD.us2
+ESPN,ESPN.br@SD,ESPN.HD.us2,HIGH,2.2,ESPN.Deportes.HD.us2
+ESPN 3,ESPN3.br@SD,ESPN.HD.us2,LOW,0.55,ESPN.Deportes.HD.us2 | NBC.Sports.HD.3.us2 | Antena.3.Internacional.us2
+ESPNU,ESPNU.us@SD,ESPNU.HD.us2,HIGH,2.2,
+ESPNews,ESPNews.us@SD,ESPNEWS.HD.us2,HIGH,2.2,
+Entertainment Tonight,EntertainmentTonight.us@SD,Family.Entertainment.Television.us2,LOW,0.3,E!.Entertainment.Television.HD.us2 | AWE.A.Wealth.of.Entertainment.HD.us2 | Gulf.Coast.Sports.and.Entertainment.Network.us2
+FOX,Fox.us@East,Fox.Deportes.HD.us2,MED,0.7,Fox.Business.HD.us2 | FOX.SOUL.us2 | Fox.Sports.4K.us2
+FOX News Channel,FoxNewsChannel.us@SD,Fox.News.Channel.HD.us2,HIGH,2.2,Salem.News.Channel.us2 | ABS-CBN.News.Channel.us2 | iCable.Finance.Info.News.Channel.us2
+FOX Sports,FoxSports.ar@SD,Fox.Sports.4K.us2,MED,0.87,FS2.Fox.Sports.2.HD.us2 | FS1.Fox.Sports.1.HD.us2 | HBCUGO.SPORTS.us2
+FOX Sports Premium,FoxSportsPremium.mx@SD,Fox.Sports.4K.us2,LOW,0.55,FS2.Fox.Sports.2.HD.us2 | FS1.Fox.Sports.1.HD.us2 | Rai.Premium.us2
+FOX Weather,FoxWeather.us@SD,The.Weather.Channel.HD.us2,LOW,0.38,Fox.Deportes.HD.us2 | Fox.Business.HD.us2 | FOX.SOUL.us2
+FX,FX.us@East,FX.HD.us2,HIGH,2.2,FX.HD.(Pacific).us2 | FX.Movie.Channel.HD.us2
+Fox,Fox.us@East,Fox.Deportes.HD.us2,MED,0.7,Fox.Business.HD.us2 | FOX.SOUL.us2 | Fox.Sports.4K.us2
+Fox News Channel,FoxNewsChannel.us@SD,Fox.News.Channel.HD.us2,HIGH,2.2,Salem.News.Channel.us2 | ABS-CBN.News.Channel.us2 | iCable.Finance.Info.News.Channel.us2
+Fox Sports 1,FoxSports1.us@HD,FS1.Fox.Sports.1.HD.us2,MED,0.95,NBC.Sports.HD.1.us2 | Fox.Sports.4K.us2 | FS2.Fox.Sports.2.HD.us2
+Fox Sports 2,FoxSports2.us@HD,FS2.Fox.Sports.2.HD.us2,MED,0.95,NBC.Sports.HD.2.us2 | Fox.Sports.4K.us2 | Altitude.Sports.2.HD.us2
+Fox Sports Premium,FoxSportsPremium.mx@SD,Fox.Sports.4K.us2,LOW,0.55,FS2.Fox.Sports.2.HD.us2 | FS1.Fox.Sports.1.HD.us2 | Rai.Premium.us2
+Freeform,Freeform.us@East,Freeform.HD.us2,HIGH,2.2,
+Fuse,Fuse.us@East,Fuse.HD.us2,HIGH,2.2,FM.Fuse.Music.us2
+HSN,HSN.us@East,HSN.Home.Shopping.Network.HD.us2,LOW,0.45,
+Hallmark Channel,HallmarkChannel.us@East,Hallmark.Channel.HD.us2,HIGH,2.2,WORLD.Channel.us2 | Victory.Channel.us2 | The.Weather.Channel.HD.us2
+Hallmark Family,HallmarkFamily.us@SD,Hallmark.Family.us2,HIGH,2.2,The.Family.Channel.us2 | Hallmark.Mystery.HD.us2 | Hallmark.Channel.HD.us2
+Hallmark Movies & More,HallmarkMoviesMore.us@SD,Tastemade.Food.and.More.us2,LOW,0.38,Movies!.us2 | and.TV.us2 | Universal.Movies.us2
+History,History.us@East,History.HD.us2,HIGH,2.2,Military.History.Channel.us2 | History.Channel.En.Español.us2
+IFC,IFC.us@East,IFC.HD.us2,HIGH,2.2,
+ION,IONTV.us@East,ION.Television.HD.us2,MED,0.7,ION.Mystery.us2
+Ink Master,InkMaster.us@SD,,LOW,0,
+Lifetime,Lifetime.us@East,Lifetime.HD.us2,HIGH,2.2,DIRECTV.Lifetime.us2 | Lifetime.Real.Women.us2
+Lifetime Movies,LifetimeMovies.us@East,Movies!.us2,LOW,0.55,Lifetime.HD.us2 | Universal.Movies.us2 | Plus.Movies.us2
+LiveNOW from FOX,LiveNOWfromFOX.us@SD,Fox.Deportes.HD.us2,LOW,0.3,Fox.Business.HD.us2 | FOX.SOUL.us2 | Fox.Sports.4K.us2
+MLB Channel,MLB.us@SD,WORLD.Channel.us2,LOW,0.38,Victory.Channel.us2 | The.Weather.Channel.HD.us2 | The.Travel.Channel.HD.us2
+MLB Network,MLBNetwork.us@SD,MLB.Network.HD.us2,HIGH,2.2,MLB.Network.HD.Alternate.us2 | MLB.Network.Strike.Zone.HD.us2 | Yes.Network.us2
+MLB Strike Zone,MLBStrikeZone.us@SD,MLB.Network.Strike.Zone.HD.us2,MED,0.95,MLB.Network.HD.us2 | HBO.Zone.HD.us2 | Fear.Zone.us2
+MSG,MSG.us@SD,MSG.SportsZone.us2,MED,0.7,MSG.Plus.us2 | MSG.National.us2 | MSG.Zone.1.us2
+MTV,MTV.us@East,mtv-U.us2,MED,0.7,MTV.Classic.us2 | MTV.-.Music.Television.HD.us2 | MTV.-.Music.Television.HD.(Pacific).us2
+MTV Classic,MTVClassic.us@East,MTV.Classic.us2,HIGH,2.2,mtv-U.us2 | Classic.Cinema.us2 | Turner.Classic.Movies.HD.us2
+MTV2,MTV2.us@East,MTV2:.Music.Television.HD.us2,LOW,0.53,
+MTVU,MTVU.us@SD,,LOW,0,
+NBA TV,NBATV.us@SD,NBA.TV.HD.us2,HIGH,2.2,West.TV.us2 | ¡HOLA!.TV.us2 | and.TV.us2
+NBC,NBC.us@East,NBC.West.Stream.us2,MED,0.7,NBC.East.Stream.us2 | NBC.True.CRMZ.us2 | NBC.Sports.Philadelphia.HD.us2
+NBC News NOW,NBCNewsNOW.us@SD,NBC.Sports.Now.us2,LOW,0.55,Spectrum.News+.us2 | Scripps.News.us2 | NBC.West.Stream.us2
+NBC News NOW HD,NBCNewsNOW.us@HD,NBC.Sports.Now.us2,LOW,0.55,Spectrum.News+.us2 | Scripps.News.us2 | NBC.West.Stream.us2
+NBC Sports NOW,NBCSportsNOW.us@SD,NBC.Sports.Now.us2,HIGH,2.2,NBC.Sports.Philadelphia.HD.us2 | NBC.Sports.HD.3.us2 | NBC.Sports.HD.2.us2
+NBCSN,NBCSN.us@SD,,LOW,0,
+NESN,NESN.us@SD,NESN+.New.England.Sports.Network.Plus.us2,LOW,0.37,
+NFL Channel,NFLChannel.us@SD,WORLD.Channel.us2,LOW,0.38,Victory.Channel.us2 | The.Weather.Channel.HD.us2 | The.Travel.Channel.HD.us2
+NFL Network,NFLNetwork.us@SD,NFL.Network.HD.us2,HIGH,2.2,Yes.Network.us2 | WWE.Network.us2 | Univision.Network.HD.us2
+NHL Network,NHLNetwork.us@SD,NHL.Network.HD.us2,HIGH,2.2,Yes.Network.us2 | WWE.Network.us2 | Univision.Network.HD.us2
+National Geographic,NationalGeographic.us@East,National.Geographic.HD.us2,HIGH,2.2,National.Geographic.Wild.HD.us2 | National.Geographic.HD.(Pacific).us2 | MSG.National.us2
+Nick Jr.,NickJr.us@East,Nick.Jr.HD.us2,HIGH,2.2,Teen.Nick.us2 | Nick.Music.us2
+Nickelodeon,Nickelodeon.us@East,Nickelodeon.HD.us2,HIGH,2.2,Nickelodeon.(Pacific).us2
+Overtime,Overtime.us@SD,,LOW,0,
+PAC 12,Pac12Insider.us@SD,News.12.New.Jersey.us2,LOW,0.25,
+Pac 12 Insider,Pac12Insider.us@SD,News.12.New.Jersey.us2,LOW,0.22,
+Paramount Movie Channel,ParamountMovieChannel.us@SD,The.Movie.Channel.HD.us2,MED,0.72,The.Movie.Channel.Extra.HD.us2 | The.Movie.Channel.(Pacific).us2 | Sony.Movie.Channel.HD.us2
+Paramount Network,ParamountNetwork.us@East,Paramount.Network.HD.us2,HIGH,2.2,Yes.Network.us2 | WWE.Network.us2 | Univision.Network.HD.us2
+Paramount+ Picks,ParamountPlusPicks.us@SD,Paramount.Network.HD.us2,LOW,0.38,Paramount+.with.Showtime.HD.us2 | Paramount+.with.Showtime.HD.(Pacific).us2
+Pluto TV Terror,PlutoTVTerror.us@SD,West.TV.us2,LOW,0.38,¡HOLA!.TV.us2 | and.TV.us2 | Zee.TV.us2
+REELZ Famous & Infamous,Reelz.us@SD,and.TV.us2,LOW,0.25,A.and.E.HD.East.us2 | Law.and.Crime.us2 | Air.and.Space.us2
+SEC Network,SECNetwork.us@SD,SEC.Network.HD.us2,HIGH,2.2,Yes.Network.us2 | WWE.Network.us2 | Univision.Network.HD.us2
+SYFY,SYFY.us@East,Syfy.HD.us2,HIGH,2.2,Syfy.HD.(Pacific).us2
+Scares by Shudder,ScaresbyShudder.us@SD,Scares.by.Shudder.us2,HIGH,2.2,Stories.by.AMC.us2
+Shout! TV,ShoutFactoryTV.us@SD,West.TV.us2,LOW,0.55,¡HOLA!.TV.us2 | and.TV.us2 | Zee.TV.us2
+Showtime,Showtime.us@East,Showtime.Women.HD.us2,MED,0.7,Showtime.Showcase.HD.us2 | Showtime.Next.HD.us2 | Showtime.Familyzone.HD.us2
+Showtime Family Zone,ShowtimeFamilyZone.us@East,The.Family.Channel.us2,LOW,0.3,Showtime.Women.HD.us2 | Showtime.Showcase.HD.us2 | Showtime.Next.HD.us2
+Sony Movies,SonyMovies.br@SD,Movies!.us2,LOW,0.55,Universal.Movies.us2 | Sony.MIX.us2 | Sony.KAL.us2
+SportsNet New York,SportsNetNewYork.us@SD,SNY.SportsNet.New.York.HD.us2,MED,0.95,Spectrum.News.-.(New.York).Rochester.STVA.us2 | WNBA-NewYorkLiberty.us | NHL-NewYorkRangers.us
+Stadium,Stadium.us@SD,,LOW,0,
+Starz Cinema,StarzCinema.us@East,Starz.Cinema.HD.us2,HIGH,2.2,Starz.HD.us2 | Starz.Kids.HD.us2 | Starz.HD.(Pacific).us2
+TCM 10 HD,TCM10HD.br@SD,NBA.League.Pass.10.us2,LOW,0.25,
+TV Land,TVLand.us@East,TV.Land.HD.us2,HIGH,2.2,TV.Land.HD.(Pacific).us2 | West.TV.us2 | ¡HOLA!.TV.us2
+The Price Is Right: The Barker Era,ThePriceIsRightTheBarkerEra.us@SD,Right.Now.TV.us2,LOW,0.19,
+USA Network,USANetwork.us@East,USA.Network.HD.us2,HIGH,2.2,USA.Network.HD.(Pacific).us2 | Yes.Network.us2 | WWE.Network.us2
+USA Today,USATODAY.us@SD,USA.Network.HD.us2,LOW,0.38,Multimedios.USA.us2 | beIN.Sports.USA.HD.us2 | USA.Network.HD.(Pacific).us2
+Universal Cinema,UniversalCinema.us@SD,Universal.Westerns.us2,LOW,0.38,Universal.Movies.us2 | Universal.Monsters.us2 | Universal.Crime.us2
+VH1,VH1.us@East,VH1.HD.us2,HIGH,2.2,
+VICE TV,VICETV.us@SD,West.TV.us2,LOW,0.55,Vice.us2 | Vice.HD.us2 | ¡HOLA!.TV.us2
+WeatherNation,WeatherNation.us@SD,,LOW,0,
+YES Network,YesNetwork.us@SD,Yes.Network.us2,HIGH,2.2,Yes.Network.Overflow.us2 | WWE.Network.us2 | Univision.Network.HD.us2
+Yes Network,YesNetwork.us@SD,Yes.Network.us2,HIGH,2.2,Yes.Network.Overflow.us2 | WWE.Network.us2 | Univision.Network.HD.us2
